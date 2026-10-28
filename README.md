@@ -58,3 +58,5 @@ Sample Superstore dataset containing 9,994 retail order records, including order
 
 ## Notes
 This project uses a sample retail dataset for portfolio and learning purposes.
+
+<img width="1526" height="875" alt="dashboard preview" src="https://github.com/user-attachments/assets/fbee4c5e-9040-487b-afa8-0bdbc7d26555" />
